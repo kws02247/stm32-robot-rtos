@@ -1,4 +1,4 @@
-# STM32 Bare-Metal Mini-RTOS
+# STM32 Bare-Metal RTOS
 
 A lightweight, bare-metal Real-Time Operating System (RTOS) developed in C and ARM Assembly for the STM32 NUCLEO-F446RE microcontroller.
 
